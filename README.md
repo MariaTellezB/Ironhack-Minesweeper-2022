@@ -5,9 +5,11 @@ EL objetivo es limpiar un campo de minas, sin hacerlas explotar.
 
 El jugador puede elegir entre 3 niveles:
 
-# 01  Tablero 7x7 + 8 minas
-# 02 Tablero 14x14 + 30 minas
-# 03  Tablero 20x20 + 63 minas
+01  Tablero 7x7 + 8 minas
+
+02 Tablero 14x14 + 30 minas
+
+03  Tablero 20x20 + 63 minas
 
 Enjoy!
 
